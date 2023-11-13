@@ -1,2 +1,2 @@
 # hyperblog
-Blog de locos viejo
+Blog de Platzi 
